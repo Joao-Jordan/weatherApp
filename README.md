@@ -10,4 +10,4 @@ Melhorias futuras:
  - Limitação da API.
      Como foi utilizado uma api gratuita, existem limites de consultas que o app pode fazer, limitando o uso do app.
 
-<img src="/screenshots/1.png" alt="Tela ao abrir o app" width="400" height="600"/> <img src="/screenshots/2.png" alt="Tela ao inserir o nome da cidade" width="400" height="600"/>
+<img src="/screenshots/1.png" alt="Tela ao abrir o app" width="450" height="700"/> <img src="/screenshots/2.png" alt="Tela ao inserir o nome da cidade" width="450" height="700"/>
