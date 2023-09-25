@@ -9,3 +9,5 @@ Melhorias futuras:
      Hoje no código main.js não há tratamento de erros, isto é, caso ocorra um erro durante a requisição dos dados da api o app irá apresentar o código de erro na tela, sem informar ao usuário como resolver.
  - Limitação da API.
      Como foi utilizado uma api gratuita, existem limites de consultas que o app pode fazer, limitando o uso do app.
+
+<img src="/screenshots/1.png alt="Tela ao abrir o app" width="200" height="200"/> <img src="/screenshots/2.png alt="Tela ao inserir o nome da cidade" width="200" height="200"/>
